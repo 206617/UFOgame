@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "UFOBuild.data.unityweb",
+"asmCodeUrl": "UFOBuild.asm.code.unityweb",
+"asmMemoryUrl": "UFOBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "UFOBuild.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
